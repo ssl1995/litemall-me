@@ -105,8 +105,8 @@ litemall:
     # 阿里云对象存储配置信息
     aliyun:
       endpoint: oss-cn-beijing.aliyuncs.com
-      accessKeyId: LTAI5tAjqB6ngXtGQemTvdr4
-      accessKeySecret: IqPqGZQjERlVlFcdzDBi3CgUNqhvQV
+      accessKeyId:
+      accessKeySecret:
       bucketName: litemall-me
     # 腾讯对象存储配置信息
     tencent:
